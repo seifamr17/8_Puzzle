@@ -1,0 +1,6 @@
+Path to Goal = Initial Down Right Down Right Up Up Left Down Down Right Up Up Left Down Down Left Up Up Right Down Down Left Up Right Down Right Up Left Up Left
+Path Cost For Astar Agent = 30
+Number Of Visited/Expanded Nodes in Astar = 41224
+Search Depth For Astar Agent = 30
+Time for Astar(nanoseconds)=216683741800
+Time for Astar(seconds)=216
